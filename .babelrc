@@ -1,0 +1,8 @@
+(6 sloc)  93 Bytes
+   
+{
+  "presets": [
+      "@babel/preset-react"
+  ],
+  "plugins": ["@babel/plugin-syntax-jsx"]
+}

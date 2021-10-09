@@ -40,7 +40,7 @@ To clone this repo go to "https://github.com/Busiwa24/Math-Magician"
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Busiwa24/Math-Magician/issues).
+Feel free to check the [issues page](https://github.com/Busiwa24/Math-Magician/issues)
 
 ## Show your support
 

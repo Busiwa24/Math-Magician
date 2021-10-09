@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Quote component is working 1`] = `
+<div
+  className="container"
+>
+  <h3>
+    What is mathematics? It is only a systematic effort of solving puzzles posed by nature.
+— Shakuntala Devi
+  </h3>
+  <h3>
+   ‘Obvious’ is the most dangerous word in mathematics.- Eric Temple Bell, Scottish mathematician
+  </h3>
+  <h3>
+    Mathematics knows no races or geographic boundaries; for mathematics, the cultural world is one country.
+— David Hilbert, German mathematician
+  </h3>
+</div>
+`;

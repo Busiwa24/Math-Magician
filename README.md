@@ -1,5 +1,9 @@
 # Math-Magicians
-This is single page app (SAP) built with react that works to solve mathematical calcualtions and computations
+![image](https://user-images.githubusercontent.com/74506933/135249451-5b14b4c1-582b-4adf-a798-a08f72270757.png)
+![image](https://user-images.githubusercontent.com/74506933/135249516-7016e0be-f82e-4d41-b54d-ed7dceaf6ed4.png)
+![image](https://user-images.githubusercontent.com/74506933/135249560-cf696691-d8ea-4845-a0e1-cb9087ed4b51.png)
+
+
 
 Additional description about the project and its features.
 
@@ -23,24 +27,29 @@ To get a local copy up and running follow these simple example steps.
 - Git
 - GitHub
 
+## Live Demo
+
+ [Live Demo Link](https://donard97.github.io/Math-magician/)
+
+
 ### Install
 
-To clone this repo go to "https://github.com/Busiwa24/Math-Magician"
+To clone this repo go to "https://github.com/Donard97/math-magician"
 
 
 ## Author
 
-👤 **Busiwa Liuma**
+👤 **Donard Golaj**
 
--GitHub: (https://github.com/Busiwa24) 
--Twitter: (https://twitter.com/busiwaliuma) 
--LinkedIn: (https://www.linkedin.com/in/busiwa-liuma-28385b80/>
+- Github : [@Donard97](https://github.com/Donard97)
+- Twitter: [@donardgolaj](https://twitter.com/donardgolaj)
+- LinkdIn : [@donard-golaj](https://www.linkedin.com/in/donard-golaj/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Busiwa24/Math-Magician/issues).
+Feel free to check the [issues page](https://github.com/Donard97/math-magician/issues).
 
 ## Show your support
 
@@ -49,4 +58,3 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
-

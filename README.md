@@ -32,9 +32,9 @@ To clone this repo go to "https://github.com/Busiwa24/Math-Magician"
 
 👤 **Busiwa Liuma**
 
--GitHub: (https://github.com/Busiwa24) 
--Twitter: (https://twitter.com/busiwaliuma) 
--LinkedIn: (https://www.linkedin.com/in/busiwa-liuma-28385b80/>
+- GitHub: (https://github.com/Busiwa24) 
+- Twitter: (https://twitter.com/busiwaliuma) 
+- LinkedIn: (https://www.linkedin.com/in/busiwa-liuma-28385b80/>
 
 ## 🤝 Contributing
 
